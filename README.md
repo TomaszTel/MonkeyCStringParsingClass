@@ -1,10 +1,9 @@
-# MonkeyStringParsingClass
+# MonkeyStringParsingClass #
 
-Documentation:
 --------------------------------------------------------------------------------------------------------------
-Function stringReplace
+# Function stringReplace #
 
-#Replace characters in string#
+## Replace characters in string ##
 
 Function arguments:
 
@@ -20,10 +19,10 @@ We can also use Array </br>
 
 
 ![image](https://user-images.githubusercontent.com/40570139/198986241-1bebb30f-726b-498c-99e6-ffc2d3c9dc6b.png)
-Function RemoveWordFromString
+# Function RemoveWordFromString #
 --------------------------------------------------------------------------------------------------------------
 
-#Removing characters from a string#
+## Removing characters from a string ##
 Function arguments:
 
 datastring = string from which we want to remove the value.</br>
@@ -34,9 +33,9 @@ To = End of character deletion index</br>
 
 --------------------------------------------------------------------------------------------------------------
 
-Function DeleteFirstWordFromString
+# Function DeleteFirstWordFromString #
 
-#Removing first characters from a string#
+## Removing first characters from a string ##
 
 Function arguments:
 
@@ -45,9 +44,9 @@ Index = index beginning of deleting characters</br>
 
 ![image](https://user-images.githubusercontent.com/40570139/198983845-d3d9641c-0db7-43e3-a72e-83ac54953c16.png)
 --------------------------------------------------------------------------------------------------------------
-Function DeleteLastWordFromString
+# Function DeleteLastWordFromString #
 
-#Removing last characters from a string#
+## Removing last characters from a string ##
 
 Function arguments:
 
@@ -56,9 +55,9 @@ Index = index beginning of deleting characters</br>
 
 ![image](https://user-images.githubusercontent.com/40570139/198984311-1fce0f72-6cce-4f11-8e3b-8753b190e119.png)
 --------------------------------------------------------------------------------------------------------------
-Function deleteAllNumberFromString
+# Function deleteAllNumberFromString #
 
-#Removing all numbers from string#
+## Removing all numbers from string ##
 
 Function arguments:
 
